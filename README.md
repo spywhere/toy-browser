@@ -1,6 +1,6 @@
 # Toy Browser
 
-A hand-written browser from [browser.engineering](https://browser.engineering)
+A hand-written web browser from [browser.engineering](https://browser.engineering)
 
 ## Plan
 
